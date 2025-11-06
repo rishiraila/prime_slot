@@ -49,7 +49,7 @@ const dummyUsers = [
   },
   {
     id: 5,
-    name: 'Sam Wilson',
+    name: 'Sam Wilso',
     email: 'sam.wilson@example.com',
     mob: '567-890-1234',
     avatar: '/assets/img/avatars/6.png',
