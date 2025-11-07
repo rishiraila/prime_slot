@@ -12,6 +12,7 @@ export default function Sidebar() {
     { href: "/Events", icon: "ri-calendar-event-line", label: "Events" },
     { href: "/ImportMembers", icon: "ri-user-add-line", label: "Import Members" },
     { href: "/UsersInfo", icon: "ri-user-settings-line", label: "Users Info" },
+    { href: "/Meetings", icon: "ri-video-chat-line", label: "Meetings" },
     { href: "/Notifications", icon: "ri-notification-3-line", label: "Notification Settings" },
 ];
 
